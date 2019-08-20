@@ -1,4 +1,10 @@
-//Emmanuel Silan CS365 HW #1
+//HW #1
+//Calculating 
+//Bond Price
+//Discount Factor
+//Future Value
+//Yield Curve
+
 #include <iostream>
 #include <cmath>
 using namespace std;
