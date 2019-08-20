@@ -1,3 +1,3 @@
 # CS365
 
-Computational Finance projects in C++
+Projects for Computational Finance in C++
