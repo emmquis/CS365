@@ -1,4 +1,4 @@
-# CS365
+# School Assignments
 
 Homework Assignments for Computational Finance in C++
 
