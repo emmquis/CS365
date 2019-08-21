@@ -1,7 +1,4 @@
-/*
-HW #2
-Calculating Fair Value	
-*/
+//Calculating Fair Value	
 
 #include <iostream>
 #include <vector>
