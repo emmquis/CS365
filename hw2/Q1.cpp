@@ -1,4 +1,5 @@
-//Calculating Fair Value	
+//Calculating Fair Value
+//Bond class
 
 #include <iostream>
 #include <vector>
