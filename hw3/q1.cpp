@@ -1,6 +1,5 @@
 //Black Scholes Merton Formula
 
-
 #include <iostream>
 #include <cmath>
 using namespace std;
